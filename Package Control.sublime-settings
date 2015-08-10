@@ -1,0 +1,21 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"Material Theme",
+		"Package Control",
+		"PHP Companion",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"UIkit autocomplete"
+	]
+}
