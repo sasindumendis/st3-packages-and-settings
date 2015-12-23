@@ -6,6 +6,6 @@
 
 ### Why
 
-- keep packages and settings synced across multiple computers
-- Quickly set up all packages and custom preferences on a new computer
+- Keep packages and settings synced across multiple computers.
+- Quickly set up all packages and custom preferences on a new computer.
 
