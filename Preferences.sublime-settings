@@ -18,9 +18,11 @@
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"material_theme_contrast_mode": true,
+	"material_theme_disable_folder_animation": true,
 	"material_theme_panel_separator": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
+	"material_theme_tabs_separator": true,
 	"overlay_scroll_bars": "enabled",
 	"theme": "Material-Theme-Darker.sublime-theme"
 }
