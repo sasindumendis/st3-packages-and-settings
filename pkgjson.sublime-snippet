@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+{
+  "name": "${1:name}",
+  "version": "0.1.0",
+  "description": "${2:description}",
+  "keywords": [${3:keywords}],
+  "homepage": "http://sasindumendis.com/${1:name}",
+  "bugs": "https://github.com/sasindumendis/${1:name}/issues",
+  "license": "(MIT OR CC-BY-4.0)",
+  "author": "Sasindu Mendis (http://sasindumendis.com)",
+  "files": [
+    "src",
+    "dist"
+  ],
+  "main": "dist/${1:name}.js",
+  "jsnext:main": "dist/${1:name}.es2015.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sasindumendis/${1:name}.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "private": true
+}
+]]></content>
+	<tabTrigger>pkgjson</tabTrigger>
+    <description>package.json skeleton</description>
+</snippet>
